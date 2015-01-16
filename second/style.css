@@ -1,0 +1,39 @@
+
+
+html, body {
+	height: 100%;
+	width: 100%;
+	margin: 0px;
+}
+.column {
+	height: 100%;
+	width: 33.33%;
+	float: left;
+}
+.blue{
+	background: #4A90E2;
+}
+.green{
+	background: #50E3C2;
+}
+.yellow{
+	background: #B8E986;
+}
+.red{
+	background: #D0021B;
+}
+.box1{
+	height:70%;
+	width: 100%;
+}
+.box2{
+	height:30%;
+	width: 100%;
+	padding-left: 35%;
+	padding-top: 15%;
+	box-sizing:border-box;
+}
+.font{
+	color:white;
+}
+

@@ -1,0 +1,35 @@
+/*
+*{
+	outline: 3px solid orange;
+}
+*/
+html, body {
+	height: 100%;
+	width: 100%;
+}
+.head {
+	height: 30%;
+	width:100%;
+	background:  #3c3c3c;
+	box-sizing:border-box;
+}
+.parent {
+	height : 70%;
+	width: 100%;
+	box-sizing:border-box;
+	background: #ebebeb;
+}
+.child1{
+	width: 70%;
+	height:85%;
+	margin-left: 15%;
+	margin-right: 15%;
+	background: #f5f5f5
+}
+.child2{
+	width: 70%;
+	height:15%;
+	margin-left: 15%;
+	margin-right: 15%;
+	background:  #3c3c3c;
+}
